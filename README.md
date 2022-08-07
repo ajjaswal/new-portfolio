@@ -78,7 +78,7 @@ As with the previous portfolio homework, "good" design is subjective. Your site 
 
 ## Deployed Application
 
-https://collin-hodgson.github.io/React-Portfolio/
+
 
 ### React
 

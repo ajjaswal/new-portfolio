@@ -18,7 +18,7 @@ const Projects = () => {
         <MDBCard className="border border-dark">
           <MDBCardImage
             style={{ width: "485px" }}
-            src="https://github.com/ajjaswal/spotify-now"
+            src="https://user-images.githubusercontent.com/102101481/178155203-0a23838c-4087-4f71-acaf-99fe11e3d6d8.jpg"
             alt="Spotify-Now"
             top
           />
@@ -66,19 +66,18 @@ const Projects = () => {
           <MDBCardImage
             style={{ height: "283px" }}
             className="img-fluid"
-            src="https://user-images.githubusercontent.com/64516562/97783621-b1469200-1b5e-11eb-8d90-935a7a2bcbae.PNG"
-            alt="Fitness"
+            src="https://user-images.githubusercontent.com/102101481/183315564-f5cb27e0-8145-4bb0-acea-c6de5e1f0b66.png"
+            alt="Employee Tracker"
             top
           />
           <MDBCardBody>
-            <MDBCardTitle tag="h5">Fitness Tracker</MDBCardTitle>
+            <MDBCardTitle tag="h5">Employee Tracker</MDBCardTitle>
             <MDBCardText>
-              With this app the user can log all exercises they perform in their
-              entire workout. After the user has submitted a workout they can
-              edit the workout after and view past workouts.
+              With this app the user can track employees at a company by adding/removing roles, departments, and employees.
+              Made with SQL
             </MDBCardText>
             <MDBBtn
-              href="https://github.com/Collin-Hodgson/WorkoutTracker"
+              href="https://github.com/ajjaswal/great-work-list"
               color="primary"
               size="md"
             >
@@ -92,18 +91,17 @@ const Projects = () => {
         <MDBCard className="border border-dark">
           <MDBCardImage
             className="img-fluid"
-            src="https://user-images.githubusercontent.com/64516562/97784659-c541c200-1b65-11eb-98ee-26da26acf883.PNG"
-            alt="Team Generator"
+            src="https://user-images.githubusercontent.com/102101481/173196576-b6cef4db-e4df-4126-8d98-fa02c0155402.png"
+            alt="Note Taker App"
             top
           />
           <MDBCardBody>
-            <MDBCardTitle tag="h5">Team Profile Generator</MDBCardTitle>
+            <MDBCardTitle tag="h5">Note Taker App</MDBCardTitle>
             <MDBCardText>
-              A command line application that allows the user to add and remove
-              employees with their employee information
+              A Javascript program to create, delete, and save notes to keep you on schedule.
             </MDBCardText>
             <MDBBtn
-              href="https://github.com/Collin-Hodgson/teamgenerator"
+              href="https://github.com/ajjaswal/brand-new-note"
               color="primary"
               size="md"
             >
@@ -117,44 +115,41 @@ const Projects = () => {
           <MDBCardImage
             style={{ height: "225px" }}
             className="img-fluid"
-            src="https://user-images.githubusercontent.com/64516562/97785431-882bfe80-1b6a-11eb-8f73-a79d66dce85a.png"
+            src="https://user-images.githubusercontent.com/102101481/183315812-c4275f6b-c4e4-4682-b213-7484d634d89f.png"
+            alt="README"
+            top
+          />
+          <MDBCardBody>
+            <MDBCardTitle tag="h5">README Generator</MDBCardTitle>
+            <MDBCardText>
+              This program generates a professional level README file on command. All that is needed is some neccesary inputs tailored to your project.
+            </MDBCardText>
+            <MDBBtn
+              href="https://github.com/ajjaswal/good-reader-gen"
+              color="primary"
+              size="md"
+            >
+              <MDBIcon icon="clone left" className="mr-1" />
+              View Project
+            </MDBBtn>
+          </MDBCardBody>
+        </MDBCard>
+
+        <MDBCard className="border border-dark">
+          <MDBCardImage
+            style={{ height: "225px" }}
+            className="img-fluid"
+            src="https://user-images.githubusercontent.com/102101481/183315881-09b99702-a8e8-403b-bea0-1a7c4153853a.png"
             alt="Weather"
             top
           />
           <MDBCardBody>
             <MDBCardTitle tag="h5">Weather Dashboard</MDBCardTitle>
             <MDBCardText>
-              This website pulls data from an API to show the user the daily and
-              five day forecast for any city on earth
+              A fully functional weather app that can give you live, up-to-date information on weather in your area.
             </MDBCardText>
             <MDBBtn
-              href="https://github.com/Collin-Hodgson/weatherdashboard"
-              color="primary"
-              size="md"
-            >
-              <MDBIcon icon="clone left" className="mr-1" />
-              View Project
-            </MDBBtn>
-          </MDBCardBody>
-        </MDBCard>
-
-        <MDBCard className="border border-dark">
-          <MDBCardImage
-            style={{ height: "225px" }}
-            className="img-fluid"
-            src="https://user-images.githubusercontent.com/64516562/97785992-063dd480-1b6e-11eb-8040-7ca005d7830b.png"
-            alt="Bartender"
-            top
-          />
-          <MDBCardBody>
-            <MDBCardTitle tag="h5">8 Bit Bartender</MDBCardTitle>
-            <MDBCardText>
-              A reto-themed guide to cocktail recipes and nutritonal
-              information. Users submit cocktails and the nutrition/ingredients
-              are provided.
-            </MDBCardText>
-            <MDBBtn
-              href="https://github.com/Eelektrick/8-bit-bartender"
+              href="https://github.com/ajjaswal/city-cast"
               color="primary"
               size="md"
             >
@@ -180,7 +175,7 @@ const Projects = () => {
               description will stay until erased.
             </MDBCardText>
             <MDBBtn
-              href="https://github.com/Collin-Hodgson/dayplanner"
+              href="https://github.com/ajjaswal/new-schedule"
               color="primary"
               size="md"
             >
@@ -204,7 +199,7 @@ const Projects = () => {
               and special characters.
             </MDBCardText>
             <MDBBtn
-              href="https://github.com/Collin-Hodgson/passwordgenerator"
+              href="https://github.com/ajjaswal/computer-pass"
               color="primary"
               size="md"
             >
@@ -217,19 +212,17 @@ const Projects = () => {
         <MDBCard className="border border-dark">
           <MDBCardImage
             style={{ height: "205px" }}
-            src="https://github.com/denismatijevic/summerlinlabs/raw/master/public/assets/Mission.png"
+            src="https://user-images.githubusercontent.com/102101481/183316088-e0e8f7e8-0cb6-4660-b24c-8a48270c90e7.png"
             alt="Summerlin Labs"
             top
           />
           <MDBCardBody>
-            <MDBCardTitle tag="h5">Summerlin Labs </MDBCardTitle>
+            <MDBCardTitle tag="h5"> Congress Confidential</MDBCardTitle>
             <MDBCardText>
-              This is my final project for the program. A local business owner
-              tasked my group with creating a website for their health and
-              testing clinic.
+              My 2nd major project, which uses 2 API's for users to get personal and financial info about US elected officials by state.
             </MDBCardText>
             <MDBBtn
-              href="https://github.com/denismatijevic/summerlinlabs"
+              href="https://github.com/ajjaswal/congress-confidential"
               color="primary"
               size="md"
             >
