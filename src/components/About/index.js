@@ -10,9 +10,9 @@ const AboutMe = () => {
           <hr class="solid bg-dark" />
           <img
             style={{ height: "285px" }}
-            // src=""
+            src=""
             class="float-left pr-4 pb-3 img-fluid"
-            alt="AJ Jaswal"
+            alt=""
           />
           <p style={{ fontSize: "27px" }}>
             My name is AJ Jaswal. I am a student at Lehigh University studying business.
