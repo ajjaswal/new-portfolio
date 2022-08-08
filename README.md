@@ -1,5 +1,6 @@
 # new-portfolio
 
+![Screenshot 2022-08-07 204815](https://user-images.githubusercontent.com/102101481/183318810-d04833ea-1c19-4eb2-966d-d1180d3aa9db.png)
 
 ##  Project Description
 This app is an updated portfolio showcasing my proficiencies and achievements so far. 
