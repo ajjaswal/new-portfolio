@@ -20,8 +20,8 @@ const ContactInfo = () => {
           <hr className="hr-light w-25" />
           <h3>Cell Phone</h3>
           <hr className="hr-dark w-25" />
-          <a href="tel:860-870-5320">
-            <MDBIcon icon="phone-alt" /> 860-970-5320
+          <a href="tel:8149737083">
+            <MDBIcon icon="phone-alt" /> (814) 973-7083
           </a>
           <hr className="hr-light w-25" />
           <h3>E-mail</h3>
