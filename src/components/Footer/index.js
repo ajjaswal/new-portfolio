@@ -14,14 +14,14 @@ function Footer() {
               <i class="fab fa-github"> </i>
             </a>
           </li>
-          <li class="list-inline-item">
+          {/* <li class="list-inline-item">
             <a
               class="btn-floating btn-li mx-1"
               href=""
             >
               <i class="fab fa-linkedin-in"> </i>
             </a>
-          </li>
+          </li> */}
         </ul>
       </div>
 
