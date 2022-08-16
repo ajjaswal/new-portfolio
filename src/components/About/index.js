@@ -14,11 +14,11 @@ const AboutMe = () => {
             class="float-left pr-4 pb-3 img-fluid"
             alt="AJ Jaswal"
           />
-          <p style={{ fontSize: "27px" }}>
+          <p style={{ fontSize: "30px" }}>
             My name is AJ Jaswal. I am a student at Lehigh University studying business.
             I am to grow my web development skills to assist me in my career going forward.
           </p>
-          <p style={{ fontSize: "27px" }}>
+          <p style={{ fontSize: "30px" }}>
             I am proficient with computers and have good understanding of
             Microsoft OS and Microsoft Office. I have experience with SEO and web development.
           </p>
@@ -28,4 +28,4 @@ const AboutMe = () => {
   );
 };
 
-export default AboutMe;
+export default AboutMe; 
